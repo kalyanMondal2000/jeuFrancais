@@ -1,5 +1,5 @@
 const gameArea = document.getElementById("gameArea");
-const character = spawnCharacter("FukU.png");
+const character = spawnCharacter("haha.png");
 
 const bulletWidth = 10;
 const bulletHeight = 20;
