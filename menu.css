@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+}
+
+#title {
+  color: red;
+  text-align: center;
+  font-size: 50px;
+}
+
+#start {
+  background-color: black;
+  border: 5px solid red;
+  border-radius: 5px;
+  color: red;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+#credits {
+  padding: 20px;
+  text-align: center;
+  color: red;
+}
